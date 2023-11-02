@@ -1,9 +1,3 @@
-//The DIY Life
-//Michael Klements
-//16/04/2021
-//HuskyLens Line Tracking Robot
-//Adapted from Huskylens Line Tracking example by By [Angelo qiao](Angelo.qiao@dfrobot.com)
-
 #include "HUSKYLENS.h"                            //Import the required libraries
 #include "SoftwareSerial.h"
 #include "PIDLoop.h"
